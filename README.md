@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![Model](https://img.shields.io/badge/Model-ResNet18-green)
 
+![Project Banner](A_banner_image_for_a_transfer_learning_project_on_.png)
 
 # Dill vs. Parsley Classification with Transfer Learning
 
