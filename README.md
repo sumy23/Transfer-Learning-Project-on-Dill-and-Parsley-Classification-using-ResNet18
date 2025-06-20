@@ -1,3 +1,15 @@
+## Table of Contents
+- [Dataset](#dataset)
+- [Model](#model)
+- [Results Summary](#results-summary)
+- [Included Files](#included-files)
+- [Training Performance](#training-performance)
+- [Author](#author)
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Model](https://img.shields.io/badge/Model-ResNet18-green)
+
+
 # Dill vs. Parsley Classification with Transfer Learning
 
 This project uses **Transfer Learning** with a **pre-trained ResNet18 model** to classify images of **dill** and **parsley** leaves. The goal is to evaluate how well a deep learning model can distinguish between visually similar herbs using a small dataset.
@@ -38,6 +50,13 @@ This project uses **Transfer Learning** with a **pre-trained ResNet18 model** to
 - `transfer_learning_50photo.ipynb` – training with 50 images
 - `transfer_learning_80photo.ipynb` – training with 80 images
 - `report.docx` – Project report in Turkish
+
+  ###  Loss over Epochs
+![Loss Plot](loss_plot.png)
+
+###  Accuracy over Epochs
+![Accuracy Plot](accuracy_plot.png)
+
 
 ## Author
 
